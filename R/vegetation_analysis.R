@@ -83,7 +83,7 @@ vegetation_analysis <- function(
     "## Project title",
     "Provide a short title for your project",
     "## Badges/Project Status",
-    "State if the poject is mantained,  if it has been published and associated DOIs"
+    "State if the poject is mantained,  if it has been published and associated DOIs",
     "## About this work",
     "Please give an overview what you do in this project and how to navigate it.",
     "## Usage and Contribution",
