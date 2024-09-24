@@ -1,4 +1,4 @@
-#' Create standard analysis template for RStudio project
+#' Create vegetation analysis template for RStudio project
 #'
 #' @param path path of the new project
 #' @param include_analysis_for_publication additional Analysis for publication folder
@@ -9,7 +9,7 @@
 #' @return no return values, just the folders and README are created
 #' @importFrom utils installed.packages
 #' @export
-standard_analysis <- function(
+vegetation_analysis <- function(
     path,
     include_analysis_for_publication,
     use_renv,
