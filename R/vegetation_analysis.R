@@ -68,7 +68,7 @@ standard_analysis <- function(
       "03_Manuscript/02_Final_figures",
       "04_Presentation",
       "05_Communication",
-      "06_Misc"
+      "06_Misc",
       "*.html"
     )
     
